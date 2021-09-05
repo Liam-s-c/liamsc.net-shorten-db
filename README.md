@@ -4,4 +4,4 @@ To add a new link go to the [issues](https://github.com/Liam-s-c/liamsc.net-shor
 Make an issue with the title being the link you want to shorten (including the http(s)://) The newly created short url can be accessed via liamsc.net/s/{issue_number}.
 
 ----
-# [liamsc.net/1](https//:liamsc.net/1) should link to this page
+# [https://liamsc.net/1](https//:liamsc.net/1) should link to this page

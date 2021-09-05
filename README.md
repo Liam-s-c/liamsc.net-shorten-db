@@ -1,5 +1,5 @@
 # liamsc.net-shorten-db
-This is the Database for [liamsc.net/s](http://liamsc.net/s)
+This is the Database for [liamsc.net/shorten](http://liamsc.net/shorten)
 To add a new link go to the [issues](https://github.com/Liam-s-c/liamsc.net-shorten-db/issues)
 Make an issue with the title being the link you want to shorten (including the http(s)://) The newly created short url can be accessed via liamsc.net/s/{issue_number}.
 

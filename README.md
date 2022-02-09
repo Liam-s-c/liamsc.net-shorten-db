@@ -1,7 +1,7 @@
 <h1 align="center" style="padding:0px">
 <img src="https://liamsc.net/img/icon.svg" width="128px">
 <br>
-<a href="https://liamsc.net/shorten/">Liamsc.net/shorten</a>
+<a href="https://link.Liamsc.net">link.Liamsc.net</a>
 </h1>
 <h3 align="center" style="padding-top:0px">
 A URL shortener.
@@ -13,7 +13,7 @@ A URL shortener.
 
 ----
 
-This is the Database for [liamsc.net/shorten](http://liamsc.net/shorten)
+This is the Database for [link.liamsc.net](https://link.Liamsc.net)
 To add a new link go to the [issues](https://liamsc.net/60)
 Make an issue with the title being the link you want to shorten (including the http(s)://) The newly created short url can be accessed via liamsc.net/{issue_number}.
 
